@@ -17,8 +17,15 @@ To set up the Clinic Management System locally, follow the [installation instruc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/clinic-management-system.git
-   cd clinic-management-system
+   git clone https://github.com/salimyaqoubi/Clinic-System-Team.git
+   cd Clinic-System-Team
 
+##Usage
+Learn how to use the Clinic Management System and explore its features in the usage section. Feel free to refer to the provided examples and screenshots.
 
+##Contributing
+We welcome contributions! To learn how you can contribute to the Clinic Management System, check out the contributing guidelines.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
 Feel free to modify this sample according to the specifics of your Clinic Management System. Add or remove sections as needed to provide the most relevant and helpful information to potential users and contributors.
