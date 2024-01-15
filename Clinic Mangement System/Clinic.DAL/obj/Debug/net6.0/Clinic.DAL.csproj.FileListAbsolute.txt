@@ -1,0 +1,49 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\refint\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\ref\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.deps.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.AssemblyReference.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfoInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfo.cs
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.CoreCompileInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.sourcelink.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\refint\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\ref\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\refint\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\ref\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\refint\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.DAL\obj\Debug\net6.0\ref\Clinic.DAL.dll

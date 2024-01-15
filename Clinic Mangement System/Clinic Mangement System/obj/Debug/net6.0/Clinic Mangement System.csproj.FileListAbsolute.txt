@@ -1,0 +1,768 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cs
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.Development.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.staticwebassets.runtime.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.exe
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.deps.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.runtimeconfig.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Humanizer.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.AssemblyReference.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfoInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfo.cs
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CoreCompileInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.MvcApplicationPartsAssemblyInfo.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cs
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.sourcelink.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.build.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.development.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.Clinic Mangement System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.build.Clinic Mangement System.props
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clinic Mangement System.props
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clinic Mangement System.props
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\bundle\Clinic Mangement System.styles.css
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\projectbundle\Clinic Mangement System.bundle.scp.css
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CopyComplete
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\refint\Clinic Mangement System.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.genruntimeconfig.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\ref\Clinic Mangement System.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Common.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\refint\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.staticwebassets.runtime.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.Clinic Mangement System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.build.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\bundle\Clinic Mangement System.styles.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\projectbundle\Clinic Mangement System.bundle.scp.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CopyComplete
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\ref\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\appsettings.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.staticwebassets.runtime.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic Mangement System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.RazorAssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.Clinic Mangement System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.build.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clinic Mangement System.props
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\bundle\Clinic Mangement System.styles.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\scopedcss\projectbundle\Clinic Mangement System.bundle.scp.css
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.csproj.CopyComplete
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\refint\Clinic Mangement System.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\Clinic Mangement System.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic Mangement System\obj\Debug\net6.0\ref\Clinic Mangement System.dll

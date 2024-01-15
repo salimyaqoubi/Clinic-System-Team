@@ -1,0 +1,51 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Management-System\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CoreCompileInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.deps.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.AssemblyReference.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfoInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfo.cs
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CoreCompileInputs.cache
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.sourcelink.json
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CopyComplete
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\refint\Clinic.BLL.dll
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.pdb
+E:\Makeen\repo\newwwgroupproject\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\ref\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\refint\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CopyComplete
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\ref\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\bin\Debug\net6.0\Clinic.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.csproj.CopyComplete
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\refint\Clinic.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\Clinic.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\CMS\-Clinic-Mang-Sys-main\Clinic Mangement System\Clinic.BLL\obj\Debug\net6.0\ref\Clinic.BLL.dll

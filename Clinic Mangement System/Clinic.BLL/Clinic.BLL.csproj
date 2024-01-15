@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interface\**" />
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="Interface\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Interface\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clinic.DAL\Clinic.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
